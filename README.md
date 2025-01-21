@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brian, an <a href="www.linkedin.com/in/brian-sanchez-5a0ab2286
-Email">IT Professional</a>☺</h1>
+">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
